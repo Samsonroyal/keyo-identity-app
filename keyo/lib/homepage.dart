@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Keyo App',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -24,7 +24,7 @@ import 'package:flutter/material.dart';
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Keyo App'),
     );
   }
 
